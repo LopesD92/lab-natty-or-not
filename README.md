@@ -14,5 +14,7 @@ Usei o CHATGPT para criar um pequeno roteiro para o video, depois editei uma fot
 ## 🚀 Resultados
 Ja venho utilizando o ChatGPT e um tempo e estou familiarizado com a plataforma, porem ainda nao conhecia o D-ID e demais. O video mostra uma pequena apresentação, que apesar de ser bem simples, gostei do resultado.
 
+https://github.com/user-attachments/assets/ff862436-1c4a-4bb1-9653-65a5c939e5d5
+
 ## 💭 Reflexão (Opcional)
 Gostei do desafio, a experiencia de criar algo que não conhecia antes foi bem legal, porem me sinto um pouco envergonhado por não saber muito e sinto que o video não foi muito convincente rsrs.
